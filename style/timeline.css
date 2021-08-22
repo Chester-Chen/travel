@@ -1,0 +1,30 @@
+.timeline-center {
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.timeline-title {
+    color: rgba(122, 122, 122, 0.795);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+/* comment */
+.container-comment {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+	margin-bottom: 2rem;
+	border: 1px solid #f1f1f1;
+	border-radius: 18px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.container-comment input {
+    height: 25px;
+    margin-bottom: 10px;
+}
+.container-comment textarea {
+    margin-bottom: 10px;
+}
